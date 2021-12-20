@@ -1,0 +1,19 @@
+Sound:
+SophronsineSoundDesign (Btn Sounds) - find link (freesound.org)
+MrFossy (Btn Sounds) - find link (freesound.org)
+Nakamurasensei (countDown) - https://freesound.org/people/Nakamurasensei/
+Lindsayanng (3,2,1) https://freesound.org/people/Lindsayanng/
+
+Background Image:
+<a href='https://www.freepik.com/vectors/background'>Background vector created by starline - www.freepik.com</a>
+https://www.freepik.com/free-vector/blue-comic-background-with-lines-halftone_1443976.htm?query=cartoon%20background
+
+Font:
+1) Sunny Spells Font by Niskala Huruf
+	link: https://www.fontspace.com/sunny-spells-font-f68393
+
+2) Spongeboy Font by Tony Ostyn, NauticalSponge and SoulfurFTG
+	link: https://www.fontspace.com/spongeboy-font-f45426
+
+end
+
